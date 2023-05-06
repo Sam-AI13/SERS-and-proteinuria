@@ -1,4 +1,4 @@
-#SERS and Proteinuria
+# SERS and Proteinuria
 The goal of this project is to classify patients with high protein concentration in urine and the healthy group based on SERS (Surface Enchanced Raman Spectroscopy) spectral data and biomedical data.
 
 Research output:
