@@ -7,6 +7,7 @@ Research output:
 - S. Aitekenov et al., “Surface-enhanced Raman spectroscopy (SERS) for protein determination in human urine”, Sensing and Bio-Sensing Research, vol. 38, p. 100535, Dec. 2022, doi: 10.1016/j.sbsr.2022.100535
 - S. Aitekenov et al. “Raman, Infrared and Brillouin Spectroscopies of Biofluids for Medical Diagnostics and for Detection of Biomarkers”, Critical Reviews in Analytical Chemistry, Feb. 2022, doi: 10.1080/10408347.2022.2036941
 - S. Aitekenov, A. Gaipov, and R. Bukasov, “Review: Detection and quantification of proteins in human urine”, Talanta, p. 121718, Oct. 2020, doi: 10.1016/j.talanta.2020.121718
+- (Reviewer) H. Jin et al. ‘Raman Spectroscopy of Emulsions and Emulsion Chemistry’, Critical Reviews in Analytical Chemistry, vol. 0, no. 0, pp. 1–13, Jul. 2023, doi: 10.1080/10408347.2023.2228411 
 
 The project is divided into several Jupyter notebooks with the following names:
 - Import raw urine spectra (part 1) - imports spectra from thousands of txt files and organizes them
